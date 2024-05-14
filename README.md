@@ -71,7 +71,8 @@ endmodule
 ![RTL logic](https://github.com/23010890/SR-FLIPFLOP-USING-CASE/assets/154983666/81b9957e-66eb-46a9-be11-ebaf646f4e94)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![timing waaveform](https://github.com/23010890/SR-FLIPFLOP-USING-CASE/assets/154983666/13961ce1-2187-49c9-82c9-fd46b56ee6b9)
+![SR TIMING](https://github.com/23010890/SR-FLIPFLOP-USING-CASE/assets/154983666/3dc48d14-3e49-42d0-b95a-ca5cf1b6fbf3)
+
 
 **RESULTS**
 Hence the output for sr-flipflop -using-case is verified.
